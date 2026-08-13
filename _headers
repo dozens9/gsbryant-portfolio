@@ -1,0 +1,4 @@
+/site.css
+  Cache-Control: public, max-age=31536000
+/work/*
+  Cache-Control: public, max-age=31536000
